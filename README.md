@@ -35,7 +35,7 @@ This project is built on:
 4. Press `p` to stop the detection window
 
 ##  Preview
-![Screenshot](screenshot.png)
+![Hand Detection by Ololade Folashade](Ololade Folashade Hand Detection Project.PNG)
 
 ---
 
