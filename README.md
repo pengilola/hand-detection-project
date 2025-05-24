@@ -1,4 +1,4 @@
-# hand-detection-project\
+# hand-detection-project
 # Hand & Pose Detection with MediaPipe
 
 This project uses Python, OpenCV, and MediaPipe to perform real-time detection of hand and body pose landmarks using a webcam.
@@ -35,7 +35,7 @@ This project is built on:
 4. Press `p` to stop the detection window
 
 ##  Preview
-![Hand Detection by Ololade Folashade](Ololade Folashade Hand Detection Project.PNG)
+![Hand Detection by Ololade Folashade](OloladeFolashade_HandDetection_Project.PNG)
 
 ---
 
